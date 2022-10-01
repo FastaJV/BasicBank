@@ -1,4 +1,4 @@
-# BasicBank
+# BasicBankAccount
 this is a very basic bank account project that has 5 fields to enter your informations,
 1st: an account number
 2nd: the Customer name
